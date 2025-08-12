@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/trie/__init__.py
+src/trie/client.py
+src/trie.egg-info/PKG-INFO
+src/trie.egg-info/SOURCES.txt
+src/trie.egg-info/dependency_links.txt
+src/trie.egg-info/top_level.txt
